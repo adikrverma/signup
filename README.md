@@ -1,3 +1,3 @@
-# Comodify Availability Management app
+# Signup Page
 
 A new Flutter project.
